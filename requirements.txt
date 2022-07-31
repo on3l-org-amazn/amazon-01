@@ -1,0 +1,6 @@
+flask
+SQLAlchemy
+sys
+pybuilder
+pyad
+pywin32
