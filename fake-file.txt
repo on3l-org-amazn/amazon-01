@@ -1,3 +1,0 @@
-Hellooooo. This wil  be sent to the remote repo then deleted
-
-Thanx
